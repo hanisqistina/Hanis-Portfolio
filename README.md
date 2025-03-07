@@ -43,7 +43,7 @@ BSc (Hons) Data Science and Business Analytics University of London
 -  allowing them to achieve higher customer satisfaction and profits.
 - Employed cutting-edge machine learning algorithms, including XGBoost, Random Forest, and Linear Regression, to analyze and optimize supply chain logistics.
 
-#### Operational Analytics Report using Microsoft Excel - @Risk1. Developing Knowledge and Understanding
+#### Operational Analytics Report using Microsoft Excel @Risk
 - Constructed a probabilistic simulation model using @Risk to maximise profit of a business given the uncertain number of units to be sold and also ensuring the business makes a profit.
 - Conducted a thorough analysis of revenue probability distribution. 
 - Calculated key percentiles, identifying the 5th percentile and the 95th percentile, providing a 90% confidence interval for projected revenue.
