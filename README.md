@@ -14,19 +14,6 @@ BSc (Hons) Data Science and Business Analytics University of London
 
 ## Academic Projects
 
-#### MSc Thesis: Determinants of big data analytics capability and data- driven decision-making
-
-- Leveraged advanced data analytics techniques to analyse customer inquiry datasets.
-- Employed clustering algorithms to segment the data effectively.
-- Identified inquiry cycle time as a pivotal factor for optimising sales conversion.
-- Developed intricate Power BI visualisations to simplify complex datasets.
-- Transformed data into actionable insights to facilitate strategic sales targeting.
-- Integrated predictive analytics and visualisation tools to enhance sales prioritisation methods.
-- Demonstrated a 20% increase in sales conversion rates through optimised inquiry cycle time.
-- Created Power BI dashboards that reduced data processing time by 30%.
-- Utilized clustering algorithms to identify three distinct customer segments within the dataset.
-- Improved sales targeting accuracy by 25% through the integration of predictive analytics.
-
 #### HR Attrition Analytics Project
 - Implemented data analysis methodology in R on an extensive HR dataset to explore the data and identify relationships.
 - Increased the efficiency and productivity of business firms by using data analytics techniques. 
