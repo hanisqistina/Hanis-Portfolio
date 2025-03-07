@@ -37,11 +37,12 @@ BSc (Hons) Data Science and Business Analytics University of London
 - Enhanced organisational HR strategies through data-driven insights.
 
 #### Business Analytics Project using Machine Learning on Wine Quality
-- Developed various machine learning models (Random Forest, Decision Trees, K Nearest Neighbours (KNN), Support Vector Machine (SVM), Naive Bayes) using R software to properly classify wines into different quality categories given their physiochemical attributes to provide quality control and assurance in the wine business
-- Accurately classifying the quality of white wines based on their various features, will give the company the upper hand in making informed decisions related to their business.
-
--  allowing them to achieve higher customer satisfaction and profits.
-- Employed cutting-edge machine learning algorithms, including XGBoost, Random Forest, and Linear Regression, to analyze and optimize supply chain logistics.
+- Developed various machine learning models (Random Forest, Decision Trees, K Nearest Neighbours (KNN), Support Vector Machine (SVM), Naive Bayes) using R software to properly classify wines into different quality categories given their physiochemical attributes.
+- Achieved a remarkable accuracy rate of over 80% in predicting wine quality for all models.
+- Applied data analysis and feature engineering techniques to identify key physiochemical attributes that influence wine quality, determining key factors for improved prediction accuracy.
+- Utilised predictive analytics techniques to forecast wine quality, enabling proactive decision-making and strategic planning in the wine production process.
+- Provided data-driven insights to help wine producers make informed decisions in production, marketing, and pricing, contributing to more effective and profitable business strategies.
+- Contributed to enhancing quality control processes within the wine industry, helping businesses achieve higher customer satisfaction and improved product consistency by automating the classification of wine quality.
 
 #### Operational Analytics Report using Microsoft Excel @Risk
 - Constructed a probabilistic simulation model using @Risk to maximise profit of a business given the uncertain number of units to be sold and also ensuring the business makes a profit.
