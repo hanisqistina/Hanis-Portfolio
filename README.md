@@ -15,7 +15,6 @@ BSc (Hons) Data Science and Business Analytics University of London
 ## Academic Projects
 
 #### HR Analytics Project
-#### HR Analytics Dashboards 
 - Implemented data analysis methodology in R on an extensive HR dataset to explore the data and identify relationships.
 - Increased the efficiency and productivity of business firms by using data analytics techniques. 
 - Leverage Tableau to create dynamic dashboards to build analytical and predictive models, analyse data and use data analytics techniques.
