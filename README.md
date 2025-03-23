@@ -15,6 +15,9 @@ BSc (Hons) Data Science and Business Analytics University of London
 ## Academic Projects
 
 #### HR Analytics Project
+
+<img width="1171" alt="Screenshot 2025-03-23 at 16 49 52" src="https://github.com/user-attachments/assets/b0a8b15e-ccf8-44ee-85fd-e6ba5e95a5eb" />
+
 [HR Analytics.pdf](https://github.com/user-attachments/files/19134174/HR.Analytics.pdf)
 - Implemented data analysis methodology in R on an extensive HR dataset to explore the data and identify relationships.
 - Increased the efficiency and productivity of business firms by using data analytics techniques. 
