@@ -55,7 +55,7 @@ BSc (Hons) Data Science and Business Analytics University of London
 - Analysed audience and user reports, campaign and conversion tracking, and explorations using the Google demo account on Google Analytics.
 - Analysed trends of the E-commerce store over a period of 3 months during holidays or events.
 - Developed a deep understanding of market dynamics. 
-- Utilised data to analyze conversion rates, ad performance, and customer behavior, and recommended adjustments based on actionable insights from user patterns and marketing data.
+- Utilised data to analyse conversion rates, ad performance, and customer behaviour, and recommended adjustments based on actionable insights from user patterns and marketing data.
 - Identified and recommended business strategies to optimise marketing campaigns, improve website navigation for Android users, and enhance affiliate marketing efforts to drive higher revenue.
 - Analysed the efficiency of paid advertising channels and reallocated marketing spend to higher-performing channels like Paid Shopping and Referral websites, resulting in better return on investment.
 - Recognised the potential of emerging markets and formulated recommendations for targeting diverse customer bases, understanding the importance of market-specific strategies.
