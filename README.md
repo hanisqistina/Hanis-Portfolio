@@ -8,9 +8,14 @@
 
 MSc Business Analytics University of Surrey
 
+Dissertation Topic: Determinants of big data analytics capability and data- driven decision-making
+
+Modules: Data Analytics, Risk Management, Marketing Analytics, Machine Learning, Operational Analytics (Distinction), Principles of Accounting (Distinction), Principles of Finance and Investment (Distinction)
+
 Strategic Management Summer School Course London School of Economics
 
 BSc (Hons) Data Science and Business Analytics University of London
+Modules Include: Business Analytics: Applied Modelling and Prediction, Market Research, Management and Innovation of E-Business, Programming for Data Science
 
 ## Academic Projects
 
